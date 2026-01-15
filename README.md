@@ -30,6 +30,8 @@
 
 **요구 사항**: 최신 웹 브라우저 (Chrome, Firefox, Edge, Safari)
 
+0. **[바로 실행하기](<https://jtech-co.github.io/Graph-Searcher/index.html>)**
+
 1. **다운로드 (Download)**
    ```bash
    git clone [레포지토리 URL]
@@ -86,4 +88,10 @@ GRAPH SEARCHER/
 
 4. **소스 필터링**
    - **지역 필터**: ALL / KOREA / GLOBAL
+
    - **타입 필터**: 그래프, 표, 뉴스 등 (추가 예정)
+
+
+## 6. 이미지 (Image)
+
+<img width="2560" height="4712" alt="image" src="https://i.imgur.com/Fu3MFez.png" /> 
